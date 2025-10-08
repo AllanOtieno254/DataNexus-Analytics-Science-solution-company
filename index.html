@@ -696,6 +696,23 @@
     <script src="js1/bootstrap.bundle.min.js"></script>
     <script src="js1/owl.carousel.min.js"></script>
     <script src="js1/app.js"></script>
+    <!-- Smooth Scroll Section Animation JS -->
+    <script>
+        // Fade-in sections as they come into view
+        const sections = document.querySelectorAll('section');
+
+        const observer = new IntersectionObserver(entries => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.classList.add('visible');
+                }
+            });
+        }, { threshold: 0.2 });
+
+        sections.forEach(section => {
+            observer.observe(section);
+        });
+    </script>
 </body>
 
 </html>
