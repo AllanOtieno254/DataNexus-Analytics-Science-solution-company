@@ -1,12 +1,18 @@
 # 🧠 DataNexus Analytics and Science
 
+<img width="1920" height="1080" alt="sc1" src="https://github.com/user-attachments/assets/bb6a0d04-4dad-43fc-8e06-263f0c00a375" />
+
+
 Welcome to **DataNexus Analytics and Science**, a multidisciplinary data-driven organization that bridges the gap between data, technology, and intelligence.  
 We specialize in **Data Science**, **Machine Learning**, **Artificial Intelligence**, and **Business Analytics** — transforming raw data into actionable insights that empower businesses and individuals to make smarter decisions.
 
----
+https://github.com/user-attachments/assets/7e595965-969a-48a2-9199-d8dbfe004119
 
 ## 🌍 Vision Statement
 To become a global leader in data-driven innovation, empowering businesses, institutions, and communities to thrive in the digital age through data, analytics, and intelligent automation.
+<img width="1920" height="1080" alt="sc2" src="https://github.com/user-attachments/assets/d6dadba2-eba2-4806-92ba-e50a567ad155" />
+
+<img width="1920" height="1080" alt="sc3" src="https://github.com/user-attachments/assets/52223061-2502-4710-85f8-93640ef53cfe" />
 
 ---
 
